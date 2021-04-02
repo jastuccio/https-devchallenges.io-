@@ -4,9 +4,6 @@
 
 import styled, { createGlobalStyle } from 'styled-components';
 
-import Header from './Header';
-import Footer from './Footer';
-
 const GlobalStyles = createGlobalStyle`
   /* @font-face {
     font-family: '';
@@ -50,9 +47,7 @@ const GlobalStyles = createGlobalStyle`
 export default function Layout({ children }) {
   return (
     <>
-      <Header />
-      <main>{children}</main>
-      <Footer />
+      {children}
       <GlobalStyles />
     </>
   );

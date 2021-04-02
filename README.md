@@ -1,6 +1,8 @@
 ## Todo:
 
 - replace favicon
+- Add https://reach.tech/skip-nav/
+- customize Readme.md
 - build something awesome!
 
 ## Done:
