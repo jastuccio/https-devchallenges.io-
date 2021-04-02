@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#4F183C",
+    "titleBar.activeBackground": "#6F2254",
+    "titleBar.activeForeground": "#FDF8FB"
+  }
+}
